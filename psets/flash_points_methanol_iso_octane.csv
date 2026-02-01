@@ -1,4 +1,4 @@
-FP (°C),compound_1,compound_2,smiles_1,smiles_2,fraction_1,fraction_2
+FP_celcius,compound_1,compound_2,smiles_1,smiles_2,fraction_1,fraction_2
 5.7,Methanol,iso-Octane,CO,CC(C)CC(C)(C)C,0.995,0.005
 0.8,Methanol,iso-Octane,CO,CC(C)CC(C)(C)C,0.990,0.010
 -0.8,Methanol,iso-Octane,CO,CC(C)CC(C)(C)C,0.985,0.015
