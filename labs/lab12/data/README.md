@@ -1,0 +1,1 @@
+The dataset `bh_reactions.csv` is derived from https://github.com/schwallergroup/ai4chem_course
